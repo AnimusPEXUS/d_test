@@ -1,0 +1,3 @@
+Test D compiler working
+
+run by `go run ./main.go`
